@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# Em Linux temos que indicar ao ambiente que ele deve procurar por bibliotecas
+# dinâmicas (`.so` em Linux, equivalentes às `.dll` em Windows) na pasta deste 
+# executável. Caso contrário, ele tenta localizar as bibliotecas nos locais
+# habituais (/usr/lib e outros). A variável de ambiente LD_LIBRARY_PATH serve
+# para isto mesmo. 
+#
+# Consultar a secção sobre Shared Libraries em:
+# http://doc.qt.io/qt-5/linux-deployment.html
+
+appname=pytunes
+appdir="$( cd "$( dirname "$0" )" && pwd )"
+LD_LIBRARY_PATH=$appdir:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH
+cd $appdir
+./$appname
+

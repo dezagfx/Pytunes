@@ -1,0 +1,51 @@
+libGL error: pci id for fd 10: 80ee:beef, driver (null)
+OpenGL Warning: glFlushVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glCombinerInputNV not found in mesa table
+OpenGL Warning: glCombinerOutputNV not found in mesa table
+OpenGL Warning: glCombinerParameterfNV not found in mesa table
+OpenGL Warning: glCombinerParameterfvNV not found in mesa table
+OpenGL Warning: glCombinerParameteriNV not found in mesa table
+OpenGL Warning: glCombinerParameterivNV not found in mesa table
+OpenGL Warning: glFinalCombinerInputNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterivNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glDeleteFencesNV not found in mesa table
+OpenGL Warning: glFinishFenceNV not found in mesa table
+OpenGL Warning: glGenFencesNV not found in mesa table
+OpenGL Warning: glGetFenceivNV not found in mesa table
+OpenGL Warning: glIsFenceNV not found in mesa table
+OpenGL Warning: glSetFenceNV not found in mesa table
+OpenGL Warning: glTestFenceNV not found in mesa table
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 00000000020cec50
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 00000000020cec50, failed to get XVisualInfo
